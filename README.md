@@ -39,7 +39,7 @@ qzl5kjhxrw73rcvr6ska3wzksu2vqsa20s4nt0ty8m
 
 ### Features 🔥
 
-- Short URLS From Different Hosts
+- Short URLS To Different Hosts
 ```
 Supported Hosts
 
