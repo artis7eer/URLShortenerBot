@@ -62,7 +62,7 @@ Supported Hosts
  git clone https://github.com/Artis7eeR/URLShortenerBot.git
  
  #Open The Folder📂
- cdURLShortenerBot
+ cd URLShortenerBot
  
  #Install requirements🎯
  pip install -r requirements.txt
