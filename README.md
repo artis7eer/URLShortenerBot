@@ -80,7 +80,6 @@ Supported Hosts
 ### Variables ⚙️
  **BOT_TOKEN: Get this value from [BotFather](https://telegram.dog/Botfather)**
 
-### [Demo Bot](https://telegram.dog/ShortlyUrlBot) 🔥
 
 <br/>
 
