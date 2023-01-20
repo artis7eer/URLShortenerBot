@@ -15,11 +15,15 @@
 
 from config import Config
 from telegram.constants import ParseMode
-async def startText(update,context):
- await update.message.reply_text(Config.START_TEXT)
 
-async def helpText(update,context):
- await update.message.reply_text(Config.HELP_TEXT,parse_mode = ParseMode.MARKDOWN,disable_web_page_preview=True)
- 
-async def aboutText(update,context):
- await update.message.reply_text(Config.ABOUT_TEXT,parse_mode = ParseMode.MARKDOWN,disable_web_page_preview=True)
+
+async def startText(update, context):
+    await update.message.reply_text(Config.START_TEXT)
+
+
+async def helpText(update, context):
+    await update.message.reply_text(Config.HELP_TEXT, parse_mode=ParseMode.MARKDOWN, disable_web_page_preview=True)
+
+
+async def aboutText(update, context):
+    await update.message.reply_text(Config.ABOUT_TEXT, parse_mode=ParseMode.MARKDOWN, disable_web_page_preview=True)
