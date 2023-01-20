@@ -33,7 +33,6 @@ qzl5kjhxrw73rcvr6ska3wzksu2vqsa20s4nt0ty8m
 [![GitHub stars](https://img.shields.io/github/stars/Artis7eeR/URLShortenerBot.svg?style=social&label=Star)](https://github.com/Artis7eeR/URLShortenerBot/)
 
 
-[**[See Our Video Here To Know How To Build Bot With Coding](https://youtu.be/)**]🎞️
 
 <br/>
 
@@ -49,7 +48,7 @@ Supported Hosts
 - da.gd
 - is.gd
 - os.db
-- qps.ru
+
 ```
 <br/>
 
@@ -63,27 +62,20 @@ Supported Hosts
  git clone https://github.com/Artis7eeR/URLShortenerBot.git
  
  #Open The Folder📂
- cd URLShortenerBot
+ cdURLShortenerBot
  
  #Install requirements🎯
  pip install -r requirements.txt
  
- #edit the bot token in config file📝
- nano config.py
-    or 
- export BOT_TOKEN=<your-bot-token>
+ #Add BOT_TOKEN to .env file
+ BOT_TOKEN=<YOUR-BOT-TOKEN>
  
  #Finally Run The Bot🤖
- python main.py
+ python3 main.py
  
 ```
 <br/>
- 
-### Installation (Cloud) 🌩
- 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Artis7eer/URLShortenerBot/tree/main)
 
-<br/>
 
 ### Variables ⚙️
  **BOT_TOKEN: Get this value from [BotFather](https://telegram.dog/Botfather)**
@@ -99,6 +91,6 @@ Supported Hosts
 
 ### Contributions are Invited 🙂
 
-**©[Artis7eeR](https://github.com/Artis7eeR)**
+**©[Abdul Razaq](https://github.com/Artis7eeR)**
 
 
